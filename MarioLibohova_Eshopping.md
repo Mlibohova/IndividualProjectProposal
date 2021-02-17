@@ -20,4 +20,4 @@ Contribution from all Group members
 
 Software resource required
 
-Hardware resoucre required
+Hardware resource required
