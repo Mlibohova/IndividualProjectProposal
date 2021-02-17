@@ -1,5 +1,6 @@
 
 # E Shopping application
+![Use Case Image](MarioLibohova_Eshopping.png)
 
 ## Project Abstract
 ## Project Relevance
