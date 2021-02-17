@@ -1,7 +1,6 @@
 
 # E Shopping application
-![Use Case Image](MarioLibohova_Eshopping.png)
-
+[logo]: https://github.com/Mlibohova/IndividualProjectProposal/blob/master/MarioLibohova_EShopping.png "UML"
 ## Project Abstract
 ## Project Relevance
 ## Conceptual Design
