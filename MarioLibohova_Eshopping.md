@@ -5,7 +5,7 @@ I was looking back at the slides, UML-ObjectDiagrams_ClassDiagrams.pdf and I fou
 https://github.com/Mlibohova/IndividualProjectProposal/blob/master/MarioLibohova_EShopping.png
 
 ## Project Relevance
-The proposal is linked with educational goals of this class and I believe the category it fits in is Object-Oreinted-Design, Debugging,Access to Database, and Code profiling and optimization. It uses Object Oreinted Principles such as Polymorphism, Inheritance and Abstraction. There will be debugging, access to database in terms of different websites through possibly API and attempt on Code profiling and optimization. Also Test Driven Development.
+The proposal is linked with educational goals of this class and I believe the categories it fits in is Object-Oreinted-Design, Debugging,Access to Database, and Code profiling and optimization. It uses Object Oreinted Principles such as Polymorphism, Inheritance and Abstraction. There will be debugging, access to database in terms of different websites through possibly API and attempt on Code profiling and optimization. Also Test Driven Development.
 
 ## Conceptual Design
 Well I'd like to build this with a team who has some interest of this idea. I don't think its anything too complicated but not easy either. The idea is very direct in my opinion and can be done in Java or Python. As long as we divide the work and contribute little by little it will be a perfect masterpiece and not spaghetti code. The IDE I'll be using is Intellij and it should be simple to add JUnit tests for testing. Customer>Membership valid > Items from 3 different categories> website> cart> order> payment
